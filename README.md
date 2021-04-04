@@ -7,3 +7,4 @@ Exercises and labs by Jonas Claes.
 - [Lab 5.1.1](/labs/5/1/practice_1.py)
 - [Lab 5.1.2](/labs/5/1/practice_2.py)
 - [Lab 5.1.3](/labs/5/1/practice_3.py)
+- [Lab 5.1.4](/labs/5/1/practice_4.py)
