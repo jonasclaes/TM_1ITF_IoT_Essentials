@@ -16,3 +16,5 @@ Exercises and labs by Jonas Claes.
 - [Lab 5.2.2](/labs/5/2/practice_2.py): LED flashing with input
 - [Lab 5.2.3](/labs/5/2/practice_3.py): LED and relays flashing with input
 - [Lab 5.2.4](/labs/5/2/practice_4.py): SOS stop on input high
+- [Lab 5.2.5](/labs/5/2/practice_5.py):
+  Running light right on input high, left on input low
