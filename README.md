@@ -4,8 +4,9 @@ Exercises and labs by Jonas Claes.
 # Labs
 ## Lab 5
 ### Lab 5.1
-- [Lab 5.1.1](/labs/5/1/practice_1.py)
-- [Lab 5.1.2](/labs/5/1/practice_2.py)
-- [Lab 5.1.3](/labs/5/1/practice_3.py)
-- [Lab 5.1.4](/labs/5/1/practice_4.py)
-- [Lab 5.1.5](/labs/5/1/practice_5.py)
+- [Lab 5.1.1](/labs/5/1/practice_1.py): Infinite blink
+- [Lab 5.1.2](/labs/5/1/practice_2.py): Flashing 4 LEDs
+- [Lab 5.1.3](/labs/5/1/practice_3.py): Running light 1 direction
+- [Lab 5.1.4](/labs/5/1/practice_4.py): Running light left-right
+- [Lab 5.1.5](/labs/5/1/practice_5.py): Alternate between LEDs 1,3 and 2,4
+- [Lab 5.1.6](/labs/5/1/practice_6.py): Morse code SOS
