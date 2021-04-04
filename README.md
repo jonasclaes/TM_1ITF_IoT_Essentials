@@ -18,3 +18,4 @@ Exercises and labs by Jonas Claes.
 - [Lab 5.2.4](/labs/5/2/practice_4.py): SOS stop on input high
 - [Lab 5.2.5](/labs/5/2/practice_5.py):
   Running light right on input high, left on input low
+- [Lab 5.2.6](/labs/5/2/practice_6.py): Control relays with inputs
