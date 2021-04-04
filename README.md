@@ -13,3 +13,4 @@ Exercises and labs by Jonas Claes.
 
 ### Lab 5.2
 - [Lab 5.2.1](/labs/5/2/practice_1.py): LED flashing stop with input
+- [Lab 5.2.2](/labs/5/2/practice_2.py): LED flashing with input
