@@ -20,3 +20,4 @@ Exercises and labs by Jonas Claes.
   Running light right on input high, left on input low
 - [Lab 5.2.6](/labs/5/2/practice_6.py): Control relays with inputs
 - [Lab 5.2.7](/labs/5/2/practice_7.py): Stepper motor wave drive
+- [Lab 5.2.8](/labs/5/2/practice_8.py): Stepper motor full step drive
